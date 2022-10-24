@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "89730796567",
+    "project_id": "ukzn-onlineshop",
+    "storage_bucket": "ukzn-onlineshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89730796567:android:8ede96a430dc5c50976052",
+        "android_client_info": {
+          "package_name": "com.example.onlineshoppingstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89730796567-77p0sr69g5j78j1ve3oj606tr146rplc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA548RGk9MhOJpmy1pE8KjefngHuX3uCpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89730796567-77p0sr69g5j78j1ve3oj606tr146rplc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
