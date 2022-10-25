@@ -14,4 +14,10 @@
     <string name="businessTaxNumber">Tax Number</string>
     <string name="businessPhone">Phone Number</string>
     <string name="Continue">Continue</string>
+    <string name="productInfo">Product Information</string>
+    <string name="productName">Name</string>
+    <string name="productType">Type</string>
+    <string name="productPrice">PRICE</string>
+    <string name="productQuantity">Quantity</string>
+    <string name="productDescription">Description</string>
 </resources>
