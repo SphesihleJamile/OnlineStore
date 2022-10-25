@@ -100,7 +100,7 @@
                 tools:ignore="DuplicateSpeakableTextCheck" />
 
             <Button
-                android:id="@+id/btnContinue"
+                android:id="@+id/btnCcontinue"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
                 android:layout_marginTop="30dp"

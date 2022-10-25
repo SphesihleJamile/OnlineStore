@@ -10,5 +10,6 @@ public class Add_New_Product extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add_new_product);
+        getSupportActionBar().hide();
     }
 }

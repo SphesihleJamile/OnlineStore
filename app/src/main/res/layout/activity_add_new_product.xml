@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:gravity="center"
-    android:background="@color/charcoal"
+    android:background="@drawable/cube"
     tools:context=".Add_New_Product">
 
     <androidx.cardview.widget.CardView
@@ -16,7 +16,9 @@
         android:layout_margin="30dp"
         app:cardCornerRadius="30dp"
         app:cardElevation="20dp"
-        android:background="@drawable/edit_text">
+        android:background="@drawable/edit_text"
+        android:scrollbars="vertical"
+        android:scrollbarStyle="insideOverlay">
 
         <LinearLayout
             android:id="@+id/rootContainer"
@@ -136,7 +138,7 @@
             <EditText
                 android:id="@+id/editTextTextMultiLine"
                 android:layout_width="match_parent"
-                android:layout_height="100dp"
+                android:layout_height="40dp"
                 android:textSize="22sp"
                 android:ems="20"
                 android:gravity="start|top"

@@ -21,4 +21,7 @@
     <string name="productQuantity">Quantity</string>
     <string name="productDescription">Description</string>
     <string name="ProductImageContentDescription">Product Image</string>
+    <string name="prodName">Product Name</string>
+    <string name="prodPrice">Product Price</string>
+    <string name="recyclerImage">User Image</string>
 </resources>
